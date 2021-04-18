@@ -1,0 +1,30 @@
+.aside-nav-bar {
+  background: #335360;
+  width: 14rem;
+  h1 {
+    color: white;
+  }
+  .aside-card {
+    background: none;
+    border: none;
+  }
+  .card-header {
+    padding: 12px 0px;
+    border: none;
+    button {
+      display: flex;
+      justify-content: space-between;
+      color: white;
+      outline: none;
+    }
+  }
+  .card-body {
+    padding: 10px 10px 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    a {
+      color: white;
+      text-decoration: none;
+    }
+  }
+}

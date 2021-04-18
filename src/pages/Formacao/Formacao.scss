@@ -1,0 +1,20 @@
+.formacao {
+  text-align: center;
+}
+
+.formacao > div {
+  top: 100px;
+  width: 250px;
+  line-height: 50px;
+  height: 200px;
+  left: 70%;
+}
+.formacao > div p {
+  padding: 50px 10px;
+  font-weight: 600;
+  font-size: 2.5rem;
+  line-height: 1.08em;
+  letter-spacing: -1.5px;
+  color: #f6ffff;
+  background-color: #35d6f79c;
+}

@@ -1,0 +1,14 @@
+.progress {
+  height: 0.8rem !important;
+  margin: 0.5rem 0 10px;
+}
+
+.skill {
+  margin-left: 20px;
+  padding-top: 4px;
+  width: 93%;
+}
+
+.determinate {
+  background-color: rgba(165, 161, 161, 0.548);
+}
