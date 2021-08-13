@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="MyProfile" src=".github/logo.png" width="160px">
+  <img alt="MyProfile" src=".github/logo.png" width="120px">
 </p>
 
 <h1 align="center">
