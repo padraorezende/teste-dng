@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="MyProfile" src=".github/logo.svg" width="160px">
+  <img alt="MyProfile" src=".github/logo.png" width="160px">
 </p>
 
 <h1 align="center">
@@ -42,8 +42,11 @@ Crie um site utilizando HTML, CSS e JavaScript. O site será o seu portfólio e 
    - Senha: processoseletivo
   
 Caso as credenciais estejam incorretas, deve ser exibida uma mensagem de erro para quem está tentando acessar e o login não deve ser permitido.
+
 Caso as credenciais estejam corretas, o usuário deve ser redirecionado para a tela “Meu Perfil”.
+
 Ao acessar a tela “Meu perfil”, deve existir uma apresentação sua com seu nome, cidade, o que gosta de fazer, experiências que gostaria de compartilhar, etc. Fique a vontade para colocar as informações que achar necessário. 
+
 Além da apresentação deve existir um botão “Sair” que ao ser clicado, redireciona o usuário para a tela de login. E assim, o usuário pode fazer todo o processo novamente.
 
 
